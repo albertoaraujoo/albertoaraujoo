@@ -38,6 +38,13 @@
 
 ### 💼 Experience
 
+**Mid-level Software Engineer • Ok** (Sep/2025 – Dec/2025)
+- Scaled fintech core products using Next.js, React, and TypeScript, including a partner portal and a B2B management platform.
+- Engineered complex financial interfaces and secure form flows with Tailwind CSS and Node.js.
+- Boosted internal operational productivity by automating processes through intuitive UI/UX tools for non-technical teams.
+- Partnered with Tech Leads and POs in multidisciplinary squads to align front-end architecture with complex business rules and APIs.
+- Resolved critical bugs and optimized platform performance to ensure stability in high-stakes financial environments.
+
 **Junior Front-End Developer • Corebiz** (Jun/2024 – Jun/2025)  
 - Built e-commerce platforms with React, Next.js, VTEX IO, Node.js, GraphQL, REST  
 - Agile team collaboration, on-time delivery, 100% approval  
