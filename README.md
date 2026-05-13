@@ -1,8 +1,7 @@
 # Hi, I’m Alberto de Araújo Vieira 👋  
 **Full Stack Developer** | Software Engineering student (graduating **December 2025**) 🎓
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto%20Araújo-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/albertoaraujoo) [![GitHub](https://img.shields.io/badge/GitHub-albertoaraujoo-181717?logo=github&style=for-the-badge)](https://github.com/albertoaraujoo)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto%20Araújo-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/albertoaraujoo) 
 ---
 
 ### 📬 Contact
